@@ -1,9 +1,8 @@
 ---
 permalink: /publications/
-layout: home
+layout: archive
 author_profile: true
 ---
-
 
 ### Peer-Reviewed Journal Articles
 
