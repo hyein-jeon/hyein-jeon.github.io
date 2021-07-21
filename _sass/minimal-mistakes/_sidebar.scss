@@ -19,13 +19,13 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.75;
-    -webkit-transition: opacity 0.2s ease-in-out;
-    transition: opacity 0.2s ease-in-out;
+    //opacity: 0.75;
+    //-webkit-transition: opacity 0.2s ease-in-out;
+    //transition: opacity 0.2s ease-in-out;
 
-    &:hover {
-      opacity: 1;
-    }
+    //&:hover {
+    //  opacity: 1;
+    //}
 
     &.sticky {
       overflow-y: auto;
@@ -127,11 +127,11 @@
   }
 
   img {
-    max-width: 110px;
+    max-width: 170px;
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 0;
       border: 1px solid $border-color;
     }
   }
@@ -172,6 +172,8 @@
 
 .author__bio {
   margin: 0;
+  font-size: 25px;
+  padding-left: 3px;
 
   @include breakpoint($large) {
     margin-top: 10px;
