@@ -6,13 +6,13 @@ author_profile: true
 
 #### Oncotype in innercity hospital
 <p class="info">Lead investigator under Dr. Mohammed Jaloudi (08/2020 - Present)<br>
-Rutgers University NJMS, Newark, NJ
+Rutgers University NJMS, Newark, NJ</p>
 
 ---
 
 #### DNR/DNI and end-of-life discussion during peak COVID-19 pandemic
 <p class="info">Lead investigator under Dr. Eric Chyn (08/2020 - Present)<br>
-Rutgers University NJMS, Newark, NJ
+Rutgers University NJMS, Newark, NJ</p>
 
 
 ---

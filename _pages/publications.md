@@ -16,6 +16,8 @@ author_profile: true
 
 - Jenkinson, R., Williams, J., <strong>Jeon, H.</strong>, et. al. (2013). TRAF3 Enforces the Requirement for T cell Cross-talk in Thymic Medullary Epithelial Development. In _Proceedings of the National Academy of Sciences 110_(52), 21107-21112.
 
+---
+
 ### Working Papers
 
 - <strong>Jeon, H.</strong>, Brankovic, M., Choi, C., Adam, S., Ampey, M., Markovic, N., Chyn, E. (in preparation). DNR/DNI status and goals-of-care in COVID pandemic.
