@@ -4,6 +4,19 @@ permalink: /research/
 author_profile: true
 ---
 
+#### Oncotype in innercity hospital
+<p class="info">Lead investigator under Dr. Mohammed Jaloudi (08/2020 - Present)<br>
+Rutgers University NJMS, Newark, NJ
+
+---
+
+#### DNR/DNI and end-of-life discussion during peak COVID-19 pandemic
+<p class="info">Lead investigator under Dr. Eric Chyn (08/2020 - Present)<br>
+Rutgers University NJMS, Newark, NJ
+
+
+---
+
 #### Automatic PET/CT staging methods for Diffuse Large B cell Lymphoma (DLBCL)
 <p class="info">Visiting Scholar under Dr. Drew Torigian (05/2016 - 05/2020)<br>
 University of Pennsylvania, Philadelphia, PA</p>
